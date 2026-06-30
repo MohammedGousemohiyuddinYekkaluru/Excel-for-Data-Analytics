@@ -6,3 +6,5 @@
 
 - Worksheets
 - Workbooks
+- Ribbon
+- Menu
