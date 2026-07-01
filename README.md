@@ -8,3 +8,7 @@
 - Workbooks
 - Ribbon
 - Menu
+
+### [Chapter 2: Formulas & Functions](https://github.com/MohammedGousemohiyuddinYekkaluru/Excel-for-Data-Analytics/tree/main/2_Formulas_Functions)
+
+- Formulas
