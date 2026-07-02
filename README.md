@@ -14,3 +14,4 @@
 - Formulas
 - Functions
 - Logical Functions
+- Math Functions
