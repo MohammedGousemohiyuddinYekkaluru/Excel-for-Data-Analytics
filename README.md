@@ -15,3 +15,4 @@
 - Functions
 - Logical Functions
 - Math Functions
+- Statistical Functions
