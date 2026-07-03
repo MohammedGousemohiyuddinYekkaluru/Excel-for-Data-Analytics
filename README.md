@@ -16,3 +16,4 @@
 - Logical Functions
 - Math Functions
 - Statistical Functions
+- Array Formulas
