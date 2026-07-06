@@ -17,3 +17,4 @@
 - Math Functions
 - Statistical Functions
 - Array Formulas
+- Lookup Functions (VLOOKUP, HLOOKUP, XLOOKUP)
