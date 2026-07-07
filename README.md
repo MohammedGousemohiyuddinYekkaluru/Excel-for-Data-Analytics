@@ -18,3 +18,5 @@
 - Statistical Functions
 - Array Formulas
 - Lookup Functions (VLOOKUP, HLOOKUP, XLOOKUP)
+- Text Functions
+- Date & Time Functions 
