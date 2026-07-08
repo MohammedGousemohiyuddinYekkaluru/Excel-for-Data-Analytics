@@ -20,3 +20,9 @@
 - Lookup Functions (VLOOKUP, HLOOKUP, XLOOKUP)
 - Text Functions
 - Date & Time Functions 
+
+### [Chapter 3: Charts](https://github.com/MohammedGousemohiyuddinYekkaluru/Excel-for-Data-Analytics/tree/main/3_Charts_Graphs)
+
+- Chart Types
+- Chart Elements
+- Chart Styles
