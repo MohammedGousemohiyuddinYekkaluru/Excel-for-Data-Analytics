@@ -26,3 +26,6 @@
 - Chart Types
 - Chart Elements
 - Chart Styles
+- Chart Axes
+- Chart Layouts
+- Chart Templates
