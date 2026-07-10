@@ -29,3 +29,10 @@
 - Chart Axes
 - Chart Layouts
 - Chart Templates
+
+### [Chapter 3: Charts](https://github.com/MohammedGousemohiyuddinYekkaluru/Excel-for-Data-Analytics/tree/main/4_Spreadsheets_Advanced)
+
+- Tables
+- Conditional Formatting
+- Formatting
+- Collaboration
