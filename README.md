@@ -30,9 +30,15 @@
 - Chart Layouts
 - Chart Templates
 
-### [Chapter 3: Charts](https://github.com/MohammedGousemohiyuddinYekkaluru/Excel-for-Data-Analytics/tree/main/4_Spreadsheets_Advanced)
+### [Chapter 4: Spreadsheets Advanced](https://github.com/MohammedGousemohiyuddinYekkaluru/Excel-for-Data-Analytics/tree/main/4_Spreadsheets_Advanced)
 
 - Tables
 - Conditional Formatting
 - Formatting
 - Collaboration
+
+### [Chapter 5: Pivot Tables](https://github.com/MohammedGousemohiyuddinYekkaluru/Excel-for-Data-Analytics/tree/main/5_Pivot_Tables)
+
+- Pivot Tables
+- Pivot Charts
+- Pivot Tables Advanced
