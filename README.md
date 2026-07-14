@@ -42,3 +42,11 @@
 - Pivot Tables
 - Pivot Charts
 - Pivot Tables Advanced
+
+### [Chapter 6: Advanced Data Analysis](https://github.com/MohammedGousemohiyuddinYekkaluru/Excel-for-Data-Analytics/tree/main/6_Advnaced_Data_Analysis)
+
+- Analysis Add-ins
+- Solver
+- Scenario Manager
+- Goal Seek
+- Data Tables
