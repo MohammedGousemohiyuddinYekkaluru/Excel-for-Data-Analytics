@@ -54,3 +54,4 @@
 ### [Chapter 7: Power Query](https://github.com/MohammedGousemohiyuddinYekkaluru/Excel-for-Data-Analytics/tree/main/7_Power_Query)
 
 - Power Query
+- Power Query Editor
