@@ -55,3 +55,4 @@
 
 - Power Query
 - Power Query Editor
+- Advanced Transformations
