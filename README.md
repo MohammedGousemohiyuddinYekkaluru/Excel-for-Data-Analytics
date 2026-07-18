@@ -56,3 +56,5 @@
 - Power Query
 - Power Query Editor
 - Advanced Transformations
+- Append Queries
+- Merge Queries
