@@ -63,3 +63,4 @@
 ### [Chapter 8: Power Pivot](https://github.com/MohammedGousemohiyuddinYekkaluru/Excel-for-Data-Analytics/tree/main/8_Power_Pivot)
 
 - Power Pivot
+- Power Pivot window | Measures & Calculated columns
