@@ -64,3 +64,4 @@
 
 - Power Pivot
 - Power Pivot window | Measures & Calculated columns
+- DAX Intro
