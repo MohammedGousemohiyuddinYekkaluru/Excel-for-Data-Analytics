@@ -65,3 +65,4 @@
 - Power Pivot
 - Power Pivot window | Measures & Calculated columns
 - DAX Intro
+- DAX Advanced | CROSSFILTER Function
