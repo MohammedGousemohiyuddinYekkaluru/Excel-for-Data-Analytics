@@ -1,6 +1,6 @@
 # Excel Salary Dashboard
 
-![1_salary_Dashboard](../assets/1_Salary_Dashboard_Final_Dashboard.gif)
+![1_salary_Dashboard](../0_assets/1_Salary_Dashboard_Final_Dashboard.gif)
 
 ## Introduction
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated.
@@ -26,7 +26,7 @@ The dataset used for this project contains real-world data science job informati
 
 ### 📉 Charts
 #### 📊 Data Science Job Salaries - Bar Chart
-![Salary Dashboard Chart1](../assets/1_Salary_Dashboard_Chart1.png)
+![Salary Dashboard Chart1](../0_assets/1_Salary_Dashboard_Chart1.png)
 
 - 🛠️ Excel Features: Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
 - 🎨 Design Choice: Horizontal bar chart for visual comparison of median salaries.
@@ -34,7 +34,7 @@ The dataset used for this project contains real-world data science job informati
 - 💡 Insights Gained: This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
 
 #### 🗺️ Country Median Salaries - Map Chart
-![1_Salary_Dashboard_Chart2.png](../assets/1_Salary_Dashboard_Chart2.png)
+![1_Salary_Dashboard_Chart2.png](../0_assets/1_Salary_Dashboard_Chart2.png)
 
 - 🛠️ Excel Features: Utilized Excel's map chart feature to plot median salaries globally.
 - 🎨 Design Choice: Color-coded map to visually differentiate salary levels across regions.
@@ -63,11 +63,11 @@ IF(
 
 🍽️ Background Table
 
-![](../assets/1_Salary_Dashboard_Screenshot1.png)
+![](../0_assets/1_Salary_Dashboard_Screenshot1.png)
 
 📉 Dashboard Implementation
 
-![](../assets/1_Salary_Dashboard_Job_Title.png)
+![](../0_assets/1_Salary_Dashboard_Job_Title.png)
 
 #### ⏰ Count of Job Schedule Type
 ```excel
@@ -79,11 +79,11 @@ IF(
 
 🍽️ Background Table
 
-![](../assets/1_Salary_Dashboard_Screenshot2.png)
+![](../0_assets/1_Salary_Dashboard_Screenshot2.png)
 
 📉 Dashboard Implementation:
 
-![](../assets/1_Salary_Dashboard_Type.png)
+![](../0_assets/1_Salary_Dashboard_Type.png)
 
 ### ❎ Data Validation
 
@@ -94,7 +94,7 @@ IF(
     - 👥 Overall usability of the dashboard is enhanced
     Salary Dashboard Data Validation
 
-![](../assets/1_Salary_Dashboard_Data_Validation.gif)
+![](../0_assets/1_Salary_Dashboard_Data_Validation.gif)
 
 ## Conclusion
 
